@@ -12,8 +12,6 @@
 
 </div>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Codeminer42
 - 🌱 I’m currently learning Rails
 - 👯 I’m looking to collaborate on Frontend repositories
