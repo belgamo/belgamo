@@ -11,8 +11,3 @@
 <a href="https://www.linkedin.com/in/gabrielbelgamo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
-
-- 🔭 I’m currently working on Codeminer42
-- 🌱 I’m currently learning Rails
-- 👯 I’m looking to collaborate on Frontend repositories
-
